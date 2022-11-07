@@ -1,0 +1,8 @@
+.parallax {
+    background-image: url('https://cdn.pixabay.com/photo/2018/07/04/00/19/champagne-3515140_960_720.jpg');
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
